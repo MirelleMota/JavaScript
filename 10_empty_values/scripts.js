@@ -1,2 +1,2 @@
-console.log(null);
-console.log(undefined);
+console.log(null); /* nulo */
+console.log(undefined); /*Valor inexistente */
